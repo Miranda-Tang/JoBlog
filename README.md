@@ -10,6 +10,10 @@ keyword extraction, JoBlog helps users efficiently track and manage their job ap
 
 🎬 Please click [here](https://www.youtube.com/watch?v=8XdOeo-SZj4) to view the demo of our project.
 
+## Project URL
+
+🔗 Please click [here](https://project-07-beyondscope-frontend.onrender.com/) to access the live version of our project.
+
 ## Team Members
 
 - Carol Ma - UBC 3rd year CS student
@@ -154,17 +158,3 @@ keyword extraction, JoBlog helps users efficiently track and manage their job ap
 
 - **Goal**: Provide users with insights on how well their resume matches a job description.
 - **Implementation**: Analyze and compare resumes with job descriptions using LLM models or other NLP techniques.
-
-## Sketch Prototype of Key Tasks
-
-### Add Job Modal
-
-<img src ="images/Add-Job-Modal.jpg">
-
-### Progress of Job Applications
-
-<img src ="images/Progress-of-job-applications.jpg">
-
-### AI Analysis for a Single Job Application
-
-<img src ="images/AI-analysis-for-a-single-job-application.jpg">
